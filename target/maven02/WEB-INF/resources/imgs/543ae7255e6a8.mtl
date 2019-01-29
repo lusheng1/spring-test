@@ -1,0 +1,42 @@
+newmtl juggernaut_mesh:juggernaut_bracersSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd juggernaut_bracers.vtf
+Ni 1.00
+newmtl juggernaut_mesh:juggernaut_maskSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd juggernaut_mask.vtf
+Ni 1.00
+newmtl juggernaut_mesh:juggernaut_pantsSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd juggernaut_pants.vtf
+Ni 1.00
+newmtl juggernaut_mesh:juggernaut_swordSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd juggernaut_sword.psd
+Ni 1.00
+newmtl juggernaut_mesh:juggernaut_updated:juggernaut_furSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd juggernaut_fur.vtf
+Ni 1.00
+newmtl juggernaut_mesh:juggernaut_updated:juggernaut_torsoSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd juggernaut_torso.vtf
+Ni 1.00
